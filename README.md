@@ -458,22 +458,6 @@ If you plan to use this project commercially, add an appropriate open-source lic
 
 ---
 
-# 👨‍💻 Author
-
-**Manas Verma**
-
-GitHub: [@manas-verma11](https://github.com/manas-verma11?utm_source=chatgpt.com)
-
----
-
-## ⭐ Support
-
-If you find this project useful, consider giving the repository a ⭐ on GitHub!
-
-**Repository:** [Manas Verma — E-Commerce](https://github.com/manas-verma11/E-Commerce?utm_source=chatgpt.com)
-
----
-
 ### 💡 About This Project
 
 This project was built to demonstrate full-stack web development using a modern **React frontend** and **Spring Boot backend**, with RESTful communication between the client and server.
